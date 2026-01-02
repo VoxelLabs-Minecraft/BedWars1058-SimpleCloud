@@ -1,0 +1,10 @@
+name: BedWarsAddon-SimpleCloud
+version: '1.0-SNAPSHOT'
+main: de.voxellabs.bwsimplecloud.BedWarsAddon
+api-version: '1.21'
+authors: [ Shvquu ]
+website: https://voxellabs.de
+depend:
+  - SimpleCloud-API
+softdepend:
+  - Bedwars1058
